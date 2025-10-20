@@ -2,5 +2,4 @@
 Proyecto Inteligencia Artificial PolygonUS
 
 Formato **Markdown**
-Author: Miguel Julian rodriguez Villamizar
-2025
+Author: Miguel Julian Rodriguez Villamizar
